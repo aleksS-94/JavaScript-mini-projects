@@ -5,7 +5,7 @@
 
 console.log('Project 1');
 
-// This is a practice project for the correct use of variables, const' and 'let' keywords, string interpolation and the Math.floor()method 
+// This is a practice project for the correct use of variables, 'const' and 'let' keywords, string interpolation and the Math.floor()method 
 
 console.log('In this project I am converting temperatures in Kelvin to Celsius, then to Fahrenheit and Newton.');
 
